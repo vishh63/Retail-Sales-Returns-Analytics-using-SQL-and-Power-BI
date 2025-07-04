@@ -1,17 +1,5 @@
 -- Table Setup
 
-drop table customers;
-drop table regions;
-drop table orders;
-drop table order_items;
-drop table returns;
-drop table products;
-
-TRUNCATE TABLE returns, order_items, orders, customers, products, regions
-RESTART IDENTITY CASCADE;
-
-DROP TABLE returns, order_items, orders, customers, products, regions;
-
 -- Table: regions
 CREATE TABLE regions (
     region_id SERIAL PRIMARY KEY,
@@ -93,7 +81,6 @@ FROM 'C:\Program Files\PostgreSQL\17\data\CSV_FILES\returns1.csv'
 DELIMITER ','
 CSV HEADER;
 
-drop TABLE returns;
 
 -- Step 3: Data Validation & Cleaning
 
