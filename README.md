@@ -3,6 +3,7 @@
 An end-to-end data analytics project that simulates a real-world retail business. This project uses SQL for data cleaning and business analysis and Power BI/Excel for data visualization. Key insights include total revenue, monthly sales trends, product performance, customer spending, regional sales distribution, and return rate.
 
 **Objective**
+
 To analyze and visualize key business metrics from a simulated retail dataset, including:
 
 Revenue performance
@@ -12,11 +13,13 @@ Regional sales
 Return rate analysis
 
 **Tools & Technologies Used**
+
 PostgreSQL / MySQL – SQL queries for analysis
 Power BI / Excel – Data visualization & dashboards
 Git & GitHub – Version control and hosting
 
 **Dataset Overview**
+
 The dataset consists of 6 interrelated tables:
 
 regions – Region master table
@@ -28,6 +31,7 @@ returns – Return details with reason and date
 
 
  **Key Steps in the Analysis**
+ 
 1. **Data Cleaning & Validation**
     Removed duplicates in order_items
     Deleted orphan returns
@@ -46,6 +50,7 @@ returns – Return details with reason and date
     Created Power BI charts for key metrics and trends
 
 **Key Insights**
+
 Total Revenue: ₹X (aggregated across all orders)
 Top Sales Month: March 2025
 Top Customer: “Priya Mehta” with ₹45,000+ in spending
@@ -66,6 +71,9 @@ Business Use Cases Covered
 -------------------------------------------------------
 
 **Connect with Me**
+
 [LinkedIn](https://www.linkedin.com/in/vaishali-s-579a672b8/)
+
 [GitHub](https://github.com/Vaishuu98)
+
 Email: surwasevaishali595@gmail.com
