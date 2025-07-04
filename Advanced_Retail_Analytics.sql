@@ -12,8 +12,6 @@ RESTART IDENTITY CASCADE;
 
 DROP TABLE returns, order_items, orders, customers, products, regions;
 
-
-
 -- Table: regions
 CREATE TABLE regions (
     region_id SERIAL PRIMARY KEY,
@@ -130,7 +128,6 @@ FROM returns
 WHERE reason IS NULL;
 
 
-
 -- Step 3.2: Check for Duplicate Rows
 
 --checking duplicates for customers 
@@ -201,7 +198,6 @@ group by order_id, return_date, reason
 having count(*) > 1;
 
 
-
 -- Step 3.3: Check for Invalid Values
 -- For customers 
 -- Null or invalid emails
@@ -258,6 +254,7 @@ WHERE order_id NOT IN (SELECT order_id FROM orders);
 SELECT *
 FROM returns
 WHERE order_id NOT IN (SELECT order_id FROM orders);
+
 
 -- Step 4: Data Exploration & Insight Generation
 -- Step 4.1: Build Basic Analytical SQL Queries
@@ -316,7 +313,6 @@ SELECT
 FROM orders o
 LEFT JOIN returns r ON o.order_id = r.order_id;
 
--- 
 
 
 
