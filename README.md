@@ -49,27 +49,6 @@ returns – Return details with reason and date
 3. **Dashboard Visualization**
     Created Power BI charts for key metrics and trends
 
-**Key Insights**
-
-Total Revenue: ₹X (aggregated across all orders)
-Top Sales Month: March 2025
-Top Customer: “Priya Mehta” with ₹45,000+ in spending
-Best-Selling Product: “Glow Cream Gadget”
-Top Region: Maharashtra with the highest sales volume
-Return Rate: ~6.7%
-
-
-Business Use Cases Covered
--------------------------------------------------------
-| Use Case              | Value                       |
-| --------------------- | --------------------------- |
-| Sales Analysis        | Understand revenue growth   |
-| Customer Segmentation | Target loyalty campaigns    |
-| Product Insights      | Optimize inventory          |
-| Regional Trends       | Localize marketing strategy |
-| Return Trends         | Improve customer experience |
--------------------------------------------------------
-
 **Connect with Me**
 
 [LinkedIn](https://www.linkedin.com/in/vaishali-s-579a672b8/)
