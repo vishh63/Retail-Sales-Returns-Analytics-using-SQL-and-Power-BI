@@ -51,8 +51,8 @@ returns – Return details with reason and date
 
 **Connect with Me**
 
-[LinkedIn](https://www.linkedin.com/in/vaishali-s-579a672b8/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/vaishali-s-579a672b8/)
 
-[GitHub](https://github.com/Vaishuu98)
+GitHub: [GitHub](https://github.com/Vaishuu98)
 
 Email: surwasevaishali595@gmail.com
