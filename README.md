@@ -14,8 +14,8 @@ Return rate analysis
 
 **Tools & Technologies Used**
 
-PostgreSQL / MySQL – SQL queries for analysis
-Power BI / Excel – Data visualization & dashboards
+PostgreSQL – SQL queries for analysis
+Power BI – Data visualization & dashboards
 Git & GitHub – Version control and hosting
 
 **Dataset Overview**
