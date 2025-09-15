@@ -1,6 +1,6 @@
 **Retail Sales & Returns Analytics using SQL and Power BI**
 
-An end-to-end data analytics project that simulates a real-world retail business. This project uses SQL for data cleaning and business analysis and Power BI/Excel for data visualization. Key insights include total revenue, monthly sales trends, product performance, customer spending, regional sales distribution, and return rate.
+An end-to-end data analytics project that simulates a real-world retail business. This project uses SQL for data cleaning and business analysis and Power BI for data visualization. Key insights include total revenue, monthly sales trends, product performance, customer spending, regional sales distribution, and return rate.
 
 **Objective**
 
@@ -14,9 +14,8 @@ Return rate analysis
 
 **Tools & Technologies Used**
 
-PostgreSQL – SQL queries for analysis
-Power BI – Data visualization & dashboards
-Git & GitHub – Version control and hosting
+**PostgreSQL** – SQL queries for analysis
+**Power BI** – Data visualization & dashboards
 
 **Dataset Overview**
 
@@ -27,9 +26,8 @@ The dataset consists of 6 interrelated tables:
 **customers** – Customer data (gender, region, signup date)
 
 **products** – Product info with category and price
-
-**orders** – Order headers with date and customer,
-**order_items** – Items sold per order with quantity and price,
+**orders** – Order headers with date and customer
+**order_items** – Items sold per order with quantity and price
 **returns** – Return details with reason and date
 
 
