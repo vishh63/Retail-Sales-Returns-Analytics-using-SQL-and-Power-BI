@@ -32,21 +32,21 @@ The dataset consists of 6 interrelated tables:
  **Key Steps in the Analysis**
  
 1. **Data Cleaning & Validation**
-        1. Removed duplicates in order_items
-        2. Deleted orphan returns
-        3. Checked and fixed invalid prices, gender, and null values
-        4. Verified foreign key relationships
+   1. Removed duplicates in order_items
+   2. Deleted orphan returns
+   3. Checked and fixed invalid prices, gender, and null values
+   4. Verified foreign key relationships
 
 3. **Business Analysis using SQL**
-1. Total revenue computation
-2. Monthly sales trends
-3. Top customers by spending
-4. Best-selling products
-5. Region-wise sales
-6. Return rate calculation
+   1. Total revenue computation
+   2. Monthly sales trends
+   3. Top customers by spending
+   4. Best-selling products
+   5. Region-wise sales
+   6. Return rate calculation
 
  
- **Dashboard Visualization**
+ 4. **Dashboard Visualization**
     Created Power BI charts for key metrics and trends
 
 **Connect with Me**
