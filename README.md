@@ -22,12 +22,15 @@ Git & GitHub – Version control and hosting
 
 The dataset consists of 6 interrelated tables:
 
-regions – Region master table
-customers – Customer data (gender, region, signup date)
-products – Product info with category and price
-orders – Order headers with date and customer
-order_items – Items sold per order with quantity and price
-returns – Return details with reason and date
+**regions** – Region master table
+
+**customers** – Customer data (gender, region, signup date)
+
+**products** – Product info with category and price
+
+**orders** – Order headers with date and customer,
+**order_items** – Items sold per order with quantity and price,
+**returns** – Return details with reason and date
 
 
  **Key Steps in the Analysis**
