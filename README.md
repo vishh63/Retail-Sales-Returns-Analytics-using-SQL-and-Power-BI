@@ -62,8 +62,8 @@ Created **Power BI dashboards** with charts to display key metrics and trends.
 ---
 
 ## Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaishali-s-579a672b8/)  
-- 🐙 [GitHub](https://github.com/vishh63))  
-- 📧 [Email](mailto:surwasevaishali595@gmail.com)  
+-  [LinkedIn](https://www.linkedin.com/in/vaishali-s-579a672b8/)  
+-  [GitHub](https://github.com/vishh63))  
+-  [Email](mailto:surwasevaishali595@gmail.com)  
 
 ---
