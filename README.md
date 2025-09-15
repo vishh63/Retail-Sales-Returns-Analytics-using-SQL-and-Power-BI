@@ -14,50 +14,39 @@ To analyze and visualize key business metrics from a simulated retail dataset, i
 
 **Tools & Technologies Used**
 
-1.**PostgreSQL** – SQL queries for analysis
-2.**Power BI** – Data visualization & dashboards
+1. **PostgreSQL** – SQL queries for analysis
+2. **Power BI** – Data visualization & dashboards
 
 **Dataset Overview**
 
 The dataset consists of 6 interrelated tables:
 
-1.**regions** – Region master table
-2.**customers** – Customer data (gender, region, signup date)
-
-3.**products** – Product info with category and price
-
-4.**orders** – Order headers with date and customer
-
-5.**order_items** – Items sold per order with quantity and price
-
-6.**returns** – Return details with reason and date
+1. **regions** – Region master table
+2. **customers** – Customer data (gender, region, signup date)
+3. **products** – Product info with category and price
+4. **orders** – Order headers with date and customer
+5. **order_items** – Items sold per order with quantity and price
+6. **returns** – Return details with reason and date
 
 
  **Key Steps in the Analysis**
  
 1. **Data Cleaning & Validation**
-    Removed duplicates in order_items
-   
-    Deleted orphan returns
-   
-    Checked and fixed invalid prices, gender, and null values
-   
-    Verified foreign key relationships
+1. Removed duplicates in order_items
+2. Deleted orphan returns
+3. Checked and fixed invalid prices, gender, and null values
+4. Verified foreign key relationships
 
 3. **Business Analysis using SQL**
-    Total revenue computation
-   
-    Monthly sales trends
-   
-    Top customers by spending
-   
-    Best-selling products
-   
-    Region-wise sales
-   
-    Return rate calculation
+1. Total revenue computation
+2. Monthly sales trends
+3. Top customers by spending
+4. Best-selling products
+5. Region-wise sales
+6. Return rate calculation
 
-5. **Dashboard Visualization**
+ 
+ **Dashboard Visualization**
     Created Power BI charts for key metrics and trends
 
 **Connect with Me**
