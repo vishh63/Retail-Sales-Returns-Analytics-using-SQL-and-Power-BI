@@ -14,25 +14,23 @@ To analyze and visualize key business metrics from a simulated retail dataset, i
 
 **Tools & Technologies Used**
 
-**PostgreSQL** – SQL queries for analysis
-
-**Power BI** – Data visualization & dashboards
+1.**PostgreSQL** – SQL queries for analysis
+2.**Power BI** – Data visualization & dashboards
 
 **Dataset Overview**
 
 The dataset consists of 6 interrelated tables:
 
-**regions** – Region master table
+1.**regions** – Region master table
+2.**customers** – Customer data (gender, region, signup date)
 
-**customers** – Customer data (gender, region, signup date)
+3.**products** – Product info with category and price
 
-**products** – Product info with category and price
+4.**orders** – Order headers with date and customer
 
-**orders** – Order headers with date and customer
+5.**order_items** – Items sold per order with quantity and price
 
-**order_items** – Items sold per order with quantity and price
-
-**returns** – Return details with reason and date
+6.**returns** – Return details with reason and date
 
 
  **Key Steps in the Analysis**
