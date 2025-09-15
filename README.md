@@ -32,10 +32,10 @@ The dataset consists of 6 interrelated tables:
  **Key Steps in the Analysis**
  
 1. **Data Cleaning & Validation**
- i. Removed duplicates in order_items
- ii. Deleted orphan returns
- iii. Checked and fixed invalid prices, gender, and null values
- iv. Verified foreign key relationships
+  i. Removed duplicates in order_items
+  ii. Deleted orphan returns
+  iii. Checked and fixed invalid prices, gender, and null values
+  iv. Verified foreign key relationships
 
 3. **Business Analysis using SQL**
 1. Total revenue computation
