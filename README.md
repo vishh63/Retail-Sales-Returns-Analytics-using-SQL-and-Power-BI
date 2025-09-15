@@ -6,15 +6,16 @@ An end-to-end data analytics project that simulates a real-world retail business
 
 To analyze and visualize key business metrics from a simulated retail dataset, including:
 
-Revenue performance
-Product sales trends
-Customer spending
-Regional sales
-Return rate analysis
+1. Revenue performance
+2. Product sales trends
+3. Customer spending
+4. Regional sales
+5. Return rate analysis
 
 **Tools & Technologies Used**
 
 **PostgreSQL** – SQL queries for analysis
+
 **Power BI** – Data visualization & dashboards
 
 **Dataset Overview**
@@ -26,8 +27,11 @@ The dataset consists of 6 interrelated tables:
 **customers** – Customer data (gender, region, signup date)
 
 **products** – Product info with category and price
+
 **orders** – Order headers with date and customer
+
 **order_items** – Items sold per order with quantity and price
+
 **returns** – Return details with reason and date
 
 
@@ -35,19 +39,27 @@ The dataset consists of 6 interrelated tables:
  
 1. **Data Cleaning & Validation**
     Removed duplicates in order_items
+   
     Deleted orphan returns
+   
     Checked and fixed invalid prices, gender, and null values
+   
     Verified foreign key relationships
 
-2. **Business Analysis using SQL**
+3. **Business Analysis using SQL**
     Total revenue computation
+   
     Monthly sales trends
+   
     Top customers by spending
+   
     Best-selling products
+   
     Region-wise sales
+   
     Return rate calculation
 
-3. **Dashboard Visualization**
+5. **Dashboard Visualization**
     Created Power BI charts for key metrics and trends
 
 **Connect with Me**
